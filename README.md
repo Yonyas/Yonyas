@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Yonyas
-- 👀 I’m interested in 코딩! 프론트엔드
-- 🌱 I’m currently learning JS, REACT
-- 📫 How to reach me jiyonlee.d@gmail.com
+- 👋 안녕하세요! 이지연입니다.
+- 🌱 React 를 배우고 있습니다.
+- 📫 jiyonlee.d@gmail.com
 
 <!---
 Yonyas/Yonyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
